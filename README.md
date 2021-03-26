@@ -1,5 +1,2 @@
 # web_templates
-# web_templates
-# web_templates
-# web_templates
-# web_templates
+Collections de divers templates web.
